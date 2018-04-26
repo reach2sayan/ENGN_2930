@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}Optimising plane-wave cut-off energy and kpoints}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Optimising kpoints}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Optimising plane-wave cut-off}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Determining the Equilibrium Lattice Parameter of Si}{2}{section.2}
+\contentsline {section}{\numberline {3}Calculate vibrational frequency of Si <111> planes}{3}{section.3}
+\contentsline {subsection}{\numberline {3.1}Using DFPT features of Abinit}{3}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Calculating frequency from forces}{3}{subsection.3.2}

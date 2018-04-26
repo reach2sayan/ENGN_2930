@@ -3,3 +3,6 @@ batch_abinit.sh*
 *~
 Si_i_*
 abinit-*
+*.aux
+*.log
+*.out
