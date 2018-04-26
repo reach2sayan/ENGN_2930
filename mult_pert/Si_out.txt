@@ -1,0 +1,1241 @@
+
+.Version 8.0.7 of ABINIT 
+.(MPI version, prepared for a x86_64_linux_gnu4.9 computer) 
+
+.Copyright (C) 1998-2016 ABINIT group . 
+ ABINIT comes with ABSOLUTELY NO WARRANTY.
+ It is free software, and you are welcome to redistribute it
+ under certain conditions (GNU General Public License,
+ see ~abinit/COPYING or http://www.gnu.org/copyleft/gpl.txt).
+
+ ABINIT is a project of the Universite Catholique de Louvain,
+ Corning Inc. and other collaborators, see ~abinit/doc/developers/contributors.txt .
+ Please read ~abinit/doc/users/acknowledgments.html for suggested
+ acknowledgments of the ABINIT effort.
+ For more information, see http://www.abinit.org .
+
+.Starting date : Thu 26 Apr 2018.
+- ( at 11h58 )
+  
+- input  file    -> Si_in.txt
+- output file    -> Si_out.txt
+- root for input  files -> Si_i
+- root for output files -> Si_o
+
+
+ DATASET    1 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET  1.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET    2 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET  2.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET    3 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET  3.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET    4 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET  4.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET    5 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET  5.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET    6 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET  6.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET    7 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET  7.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET    8 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET  8.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET    9 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET  9.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   10 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 10.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   11 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 11.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   12 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 12.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   13 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 13.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   14 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 14.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   15 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 15.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   16 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 16.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   17 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 17.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   18 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 18.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   19 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 19.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   20 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 20.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   21 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 21.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   22 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 22.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   23 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 23.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   24 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 24.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+
+ DATASET   25 : space group R-3 m (#166); Bravais hR (rhombohedral)
+================================================================================
+ Values of the parameters that define the memory need for DATASET 25.
+     intxc =       0    ionmov =       0      iscf =       7    lmnmax =       2
+     lnmax =       2     mgfft =      50  mpssoang =       3    mqgrid =    3001
+     natom =       2  nloc_mem =       1    nspden =       1   nspinor =       1
+    nsppol =       1      nsym =      12    n1xccc =    2501    ntypat =       1
+    occopt =       1   xclevel =       1
+-    mband =           5        mffmem =           1         mkmem =        2000
+       mpw =        5203          nfft =      125000          nkpt =        2000
+================================================================================
+P This job should need less than                     951.168 Mbytes of memory.
+  Rough estimation (10% accuracy) of disk space for files :
+_ WF disk file :    793.917 Mbytes ; DEN or POT disk file :      0.956 Mbytes.
+================================================================================
+
+--------------------------------------------------------------------------------
+------------- Echo of variables that govern the present computation ------------
+--------------------------------------------------------------------------------
+-
+- outvars: echo of selected default values                                      
+-   iomode0 =  0 , fftalg0 =112 , wfoptalg0 =  0
+-
+- outvars: echo of global parameters not present in the input file              
+-  max_nthreads =    0
+-
+ -outvars: echo values of preprocessed input variables --------
+            acell      1.0200645510E+01  1.0200645510E+01  1.0200645510E+01 Bohr
+              amu      2.80855000E+01
+           diemac      1.20000000E+01
+          dilatmx      1.05000000E+00
+             ecut      5.00000000E+01 Hartree
+           ecutsm      5.00000000E-01 Hartree
+-          fftalg         112
+           irdwfk           1
+           jdtset        1    2    3    4    5    6    7    8    9   10
+                        11   12   13   14   15   16   17   18   19   20
+                        21   22   23   24   25
+              kpt     -5.00000000E-02 -1.00000000E-01  0.00000000E+00
+                      -1.00000000E-01 -5.00000000E-02  0.00000000E+00
+                      -5.00000000E-02 -5.00000000E-02  5.00000000E-02
+                      -5.00000000E-02 -2.00000000E-01  0.00000000E+00
+                      -1.00000000E-01 -1.50000000E-01  0.00000000E+00
+                      -5.00000000E-02 -1.50000000E-01  5.00000000E-02
+                      -1.50000000E-01 -1.00000000E-01  0.00000000E+00
+                      -1.00000000E-01 -1.00000000E-01  5.00000000E-02
+                      -5.00000000E-02 -1.00000000E-01  1.00000000E-01
+                      -2.00000000E-01 -5.00000000E-02  0.00000000E+00
+                      -1.50000000E-01 -5.00000000E-02  5.00000000E-02
+                      -1.00000000E-01 -5.00000000E-02  1.00000000E-01
+                      -5.00000000E-02 -5.00000000E-02  1.50000000E-01
+                      -5.00000000E-02 -3.00000000E-01  0.00000000E+00
+                      -1.00000000E-01 -2.50000000E-01  0.00000000E+00
+                      -5.00000000E-02 -2.50000000E-01  5.00000000E-02
+                      -1.50000000E-01 -2.00000000E-01  0.00000000E+00
+                      -1.00000000E-01 -2.00000000E-01  5.00000000E-02
+                      -5.00000000E-02 -2.00000000E-01  1.00000000E-01
+                      -2.00000000E-01 -1.50000000E-01  0.00000000E+00
+                      -1.50000000E-01 -1.50000000E-01  5.00000000E-02
+                      -1.00000000E-01 -1.50000000E-01  1.00000000E-01
+                      -5.00000000E-02 -1.50000000E-01  1.50000000E-01
+                      -2.50000000E-01 -1.00000000E-01  0.00000000E+00
+                      -2.00000000E-01 -1.00000000E-01  5.00000000E-02
+                      -1.50000000E-01 -1.00000000E-01  1.00000000E-01
+                      -1.00000000E-01 -1.00000000E-01  1.50000000E-01
+                      -5.00000000E-02 -1.00000000E-01  2.00000000E-01
+                      -3.00000000E-01 -5.00000000E-02  0.00000000E+00
+                      -2.50000000E-01 -5.00000000E-02  5.00000000E-02
+                      -2.00000000E-01 -5.00000000E-02  1.00000000E-01
+                      -1.50000000E-01 -5.00000000E-02  1.50000000E-01
+                      -1.00000000E-01 -5.00000000E-02  2.00000000E-01
+                      -5.00000000E-02 -5.00000000E-02  2.50000000E-01
+                      -5.00000000E-02 -4.00000000E-01  0.00000000E+00
+                      -1.00000000E-01 -3.50000000E-01  0.00000000E+00
+                      -5.00000000E-02 -3.50000000E-01  5.00000000E-02
+                      -1.50000000E-01 -3.00000000E-01  0.00000000E+00
+                      -1.00000000E-01 -3.00000000E-01  5.00000000E-02
+                      -5.00000000E-02 -3.00000000E-01  1.00000000E-01
+                      -2.00000000E-01 -2.50000000E-01  0.00000000E+00
+                      -1.50000000E-01 -2.50000000E-01  5.00000000E-02
+                      -1.00000000E-01 -2.50000000E-01  1.00000000E-01
+                      -5.00000000E-02 -2.50000000E-01  1.50000000E-01
+                      -2.50000000E-01 -2.00000000E-01  0.00000000E+00
+                      -2.00000000E-01 -2.00000000E-01  5.00000000E-02
+                      -1.50000000E-01 -2.00000000E-01  1.00000000E-01
+                      -1.00000000E-01 -2.00000000E-01  1.50000000E-01
+                      -5.00000000E-02 -2.00000000E-01  2.00000000E-01
+                      -3.00000000E-01 -1.50000000E-01  0.00000000E+00
+                       outvar_i_n : Printing only first  50 k-points.
+           kptopt           2
+         kptrlatt       10  -10   10    -10   10   10    -10  -10   10
+          kptrlen      1.02006455E+02
+P           mkmem        2000
+            natom           2
+            nband           5
+           ndtset          25
+            ngfft          50      50      50
+             nkpt        2000
+            nstep          10
+             nsym          12
+            ntime          10
+           ntypat           1
+              occ      2.000000  2.000000  2.000000  2.000000  0.000000
+            rprim      0.0000000000E+00  5.0000000000E-01  5.0000000000E-01
+                       5.0000000000E-01  0.0000000000E+00  5.0000000000E-01
+                       5.0000000000E-01  5.0000000000E-01  0.0000000000E+00
+           shiftk      5.00000000E-01  5.00000000E-01  5.00000000E-01
+          spgroup         166
+           symrel      1  0  0   0  1  0   0  0  1      -1  0  0   0 -1  0   0  0 -1
+                       1  0  0   0  0  1   0  1  0      -1  0  0   0  0 -1   0 -1  0
+                       0  1  0   0  0  1   1  0  0       0 -1  0   0  0 -1  -1  0  0
+                       0  1  0   1  0  0   0  0  1       0 -1  0  -1  0  0   0  0 -1
+                       0  0  1   1  0  0   0  1  0       0  0 -1  -1  0  0   0 -1  0
+                       0  0  1   0  1  0   1  0  0       0  0 -1   0 -1  0  -1  0  0
+            tnons      0.0000000  0.0000000  0.0000000     0.2500000  0.2500000  0.2500000
+                       0.0000000  0.0000000  0.0000000     0.2500000  0.2500000  0.2500000
+                       0.0000000  0.0000000  0.0000000     0.2500000  0.2500000  0.2500000
+                       0.0000000  0.0000000  0.0000000     0.2500000  0.2500000  0.2500000
+                       0.0000000  0.0000000  0.0000000     0.2500000  0.2500000  0.2500000
+                       0.0000000  0.0000000  0.0000000     0.2500000  0.2500000  0.2500000
+           toldfe      1.00000000E-06 Hartree
+            typat      1  1
+              wtk        0.00050    0.00050    0.00050    0.00050    0.00050    0.00050
+                         0.00050    0.00050    0.00050    0.00050    0.00050    0.00050
+                         0.00050    0.00050    0.00050    0.00050    0.00050    0.00050
+                         0.00050    0.00050    0.00050    0.00050    0.00050    0.00050
+                         0.00050    0.00050    0.00050    0.00050    0.00050    0.00050
+                         0.00050    0.00050    0.00050    0.00050    0.00050    0.00050
+                         0.00050    0.00050    0.00050    0.00050    0.00050    0.00050
+                         0.00050    0.00050    0.00050    0.00050    0.00050    0.00050
+                         0.00050    0.00050
+                       outvars : Printing only first  50 k-points.
+           xangst1     5.3979491168E-03  5.3979491168E-03  5.3979491168E-03
+                       1.3440893301E+00  1.3440893301E+00  1.3440893301E+00
+           xangst2     1.0795898234E-02  1.0795898234E-02  1.0795898234E-02
+                       1.3386913810E+00  1.3386913810E+00  1.3386913810E+00
+           xangst3     1.6193847350E-02  1.6193847350E-02  1.6193847350E-02
+                       1.3332934318E+00  1.3332934318E+00  1.3332934318E+00
+           xangst4     2.1591796467E-02  2.1591796467E-02  2.1591796467E-02
+                       1.3278954827E+00  1.3278954827E+00  1.3278954827E+00
+           xangst5     2.6989745584E-02  2.6989745584E-02  2.6989745584E-02
+                       1.3224975336E+00  1.3224975336E+00  1.3224975336E+00
+           xangst6     3.2387694701E-02  3.2387694701E-02  3.2387694701E-02
+                       1.3170995845E+00  1.3170995845E+00  1.3170995845E+00
+           xangst7     3.7785643818E-02  3.7785643818E-02  3.7785643818E-02
+                       1.3117016354E+00  1.3117016354E+00  1.3117016354E+00
+           xangst8     4.3183592934E-02  4.3183592934E-02  4.3183592934E-02
+                       1.3063036863E+00  1.3063036863E+00  1.3063036863E+00
+           xangst9     4.8581542051E-02  4.8581542051E-02  4.8581542051E-02
+                       1.3009057371E+00  1.3009057371E+00  1.3009057371E+00
+           xangst10    5.3979491168E-02  5.3979491168E-02  5.3979491168E-02
+                       1.2955077880E+00  1.2955077880E+00  1.2955077880E+00
+           xangst11    5.9377440285E-02  5.9377440285E-02  5.9377440285E-02
+                       1.2901098389E+00  1.2901098389E+00  1.2901098389E+00
+           xangst12    6.4775389402E-02  6.4775389402E-02  6.4775389402E-02
+                       1.2847118898E+00  1.2847118898E+00  1.2847118898E+00
+           xangst13    7.0173338518E-02  7.0173338518E-02  7.0173338518E-02
+                       1.2793139407E+00  1.2793139407E+00  1.2793139407E+00
+           xangst14    7.5571287635E-02  7.5571287635E-02  7.5571287635E-02
+                       1.2739159916E+00  1.2739159916E+00  1.2739159916E+00
+           xangst15    8.0969236752E-02  8.0969236752E-02  8.0969236752E-02
+                       1.2685180424E+00  1.2685180424E+00  1.2685180424E+00
+           xangst16    8.6367185869E-02  8.6367185869E-02  8.6367185869E-02
+                       1.2631200933E+00  1.2631200933E+00  1.2631200933E+00
+           xangst17    9.1765134986E-02  9.1765134986E-02  9.1765134986E-02
+                       1.2577221442E+00  1.2577221442E+00  1.2577221442E+00
+           xangst18    9.7163084102E-02  9.7163084102E-02  9.7163084102E-02
+                       1.2523241951E+00  1.2523241951E+00  1.2523241951E+00
+           xangst19    1.0256103322E-01  1.0256103322E-01  1.0256103322E-01
+                       1.2469262460E+00  1.2469262460E+00  1.2469262460E+00
+           xangst20    1.0795898234E-01  1.0795898234E-01  1.0795898234E-01
+                       1.2415282969E+00  1.2415282969E+00  1.2415282969E+00
+           xangst21    1.1335693145E-01  1.1335693145E-01  1.1335693145E-01
+                       1.2361303477E+00  1.2361303477E+00  1.2361303477E+00
+           xangst22    1.1875488057E-01  1.1875488057E-01  1.1875488057E-01
+                       1.2307323986E+00  1.2307323986E+00  1.2307323986E+00
+           xangst23    1.2415282969E-01  1.2415282969E-01  1.2415282969E-01
+                       1.2253344495E+00  1.2253344495E+00  1.2253344495E+00
+           xangst24    1.2955077880E-01  1.2955077880E-01  1.2955077880E-01
+                       1.2199365004E+00  1.2199365004E+00  1.2199365004E+00
+           xangst25    1.3494872792E-01  1.3494872792E-01  1.3494872792E-01
+                       1.2145385513E+00  1.2145385513E+00  1.2145385513E+00
+            xcart1     1.0200645510E-02  1.0200645510E-02  1.0200645510E-02
+                       2.5399607320E+00  2.5399607320E+00  2.5399607320E+00
+            xcart2     2.0401291020E-02  2.0401291020E-02  2.0401291020E-02
+                       2.5297600865E+00  2.5297600865E+00  2.5297600865E+00
+            xcart3     3.0601936530E-02  3.0601936530E-02  3.0601936530E-02
+                       2.5195594410E+00  2.5195594410E+00  2.5195594410E+00
+            xcart4     4.0802582040E-02  4.0802582040E-02  4.0802582040E-02
+                       2.5093587955E+00  2.5093587955E+00  2.5093587955E+00
+            xcart5     5.1003227550E-02  5.1003227550E-02  5.1003227550E-02
+                       2.4991581499E+00  2.4991581499E+00  2.4991581499E+00
+            xcart6     6.1203873060E-02  6.1203873060E-02  6.1203873060E-02
+                       2.4889575044E+00  2.4889575044E+00  2.4889575044E+00
+            xcart7     7.1404518570E-02  7.1404518570E-02  7.1404518570E-02
+                       2.4787568589E+00  2.4787568589E+00  2.4787568589E+00
+            xcart8     8.1605164080E-02  8.1605164080E-02  8.1605164080E-02
+                       2.4685562134E+00  2.4685562134E+00  2.4685562134E+00
+            xcart9     9.1805809590E-02  9.1805809590E-02  9.1805809590E-02
+                       2.4583555679E+00  2.4583555679E+00  2.4583555679E+00
+            xcart10    1.0200645510E-01  1.0200645510E-01  1.0200645510E-01
+                       2.4481549224E+00  2.4481549224E+00  2.4481549224E+00
+            xcart11    1.1220710061E-01  1.1220710061E-01  1.1220710061E-01
+                       2.4379542769E+00  2.4379542769E+00  2.4379542769E+00
+            xcart12    1.2240774612E-01  1.2240774612E-01  1.2240774612E-01
+                       2.4277536314E+00  2.4277536314E+00  2.4277536314E+00
+            xcart13    1.3260839163E-01  1.3260839163E-01  1.3260839163E-01
+                       2.4175529859E+00  2.4175529859E+00  2.4175529859E+00
+            xcart14    1.4280903714E-01  1.4280903714E-01  1.4280903714E-01
+                       2.4073523404E+00  2.4073523404E+00  2.4073523404E+00
+            xcart15    1.5300968265E-01  1.5300968265E-01  1.5300968265E-01
+                       2.3971516948E+00  2.3971516948E+00  2.3971516948E+00
+            xcart16    1.6321032816E-01  1.6321032816E-01  1.6321032816E-01
+                       2.3869510493E+00  2.3869510493E+00  2.3869510493E+00
+            xcart17    1.7341097367E-01  1.7341097367E-01  1.7341097367E-01
+                       2.3767504038E+00  2.3767504038E+00  2.3767504038E+00
+            xcart18    1.8361161918E-01  1.8361161918E-01  1.8361161918E-01
+                       2.3665497583E+00  2.3665497583E+00  2.3665497583E+00
+            xcart19    1.9381226469E-01  1.9381226469E-01  1.9381226469E-01
+                       2.3563491128E+00  2.3563491128E+00  2.3563491128E+00
+            xcart20    2.0401291020E-01  2.0401291020E-01  2.0401291020E-01
+                       2.3461484673E+00  2.3461484673E+00  2.3461484673E+00
+            xcart21    2.1421355571E-01  2.1421355571E-01  2.1421355571E-01
+                       2.3359478218E+00  2.3359478218E+00  2.3359478218E+00
+            xcart22    2.2441420122E-01  2.2441420122E-01  2.2441420122E-01
+                       2.3257471763E+00  2.3257471763E+00  2.3257471763E+00
+            xcart23    2.3461484673E-01  2.3461484673E-01  2.3461484673E-01
+                       2.3155465308E+00  2.3155465308E+00  2.3155465308E+00
+            xcart24    2.4481549224E-01  2.4481549224E-01  2.4481549224E-01
+                       2.3053458853E+00  2.3053458853E+00  2.3053458853E+00
+            xcart25    2.5501613775E-01  2.5501613775E-01  2.5501613775E-01
+                       2.2951452398E+00  2.2951452398E+00  2.2951452398E+00
+             xred1     1.0000000000E-03  1.0000000000E-03  1.0000000000E-03
+                       2.4900000000E-01  2.4900000000E-01  2.4900000000E-01
+             xred2     2.0000000000E-03  2.0000000000E-03  2.0000000000E-03
+                       2.4800000000E-01  2.4800000000E-01  2.4800000000E-01
+             xred3     3.0000000000E-03  3.0000000000E-03  3.0000000000E-03
+                       2.4700000000E-01  2.4700000000E-01  2.4700000000E-01
+             xred4     4.0000000000E-03  4.0000000000E-03  4.0000000000E-03
+                       2.4600000000E-01  2.4600000000E-01  2.4600000000E-01
+             xred5     5.0000000000E-03  5.0000000000E-03  5.0000000000E-03
+                       2.4500000000E-01  2.4500000000E-01  2.4500000000E-01
+             xred6     6.0000000000E-03  6.0000000000E-03  6.0000000000E-03
+                       2.4400000000E-01  2.4400000000E-01  2.4400000000E-01
+             xred7     7.0000000000E-03  7.0000000000E-03  7.0000000000E-03
+                       2.4300000000E-01  2.4300000000E-01  2.4300000000E-01
+             xred8     8.0000000000E-03  8.0000000000E-03  8.0000000000E-03
+                       2.4200000000E-01  2.4200000000E-01  2.4200000000E-01
+             xred9     9.0000000000E-03  9.0000000000E-03  9.0000000000E-03
+                       2.4100000000E-01  2.4100000000E-01  2.4100000000E-01
+             xred10    1.0000000000E-02  1.0000000000E-02  1.0000000000E-02
+                       2.4000000000E-01  2.4000000000E-01  2.4000000000E-01
+             xred11    1.1000000000E-02  1.1000000000E-02  1.1000000000E-02
+                       2.3900000000E-01  2.3900000000E-01  2.3900000000E-01
+             xred12    1.2000000000E-02  1.2000000000E-02  1.2000000000E-02
+                       2.3800000000E-01  2.3800000000E-01  2.3800000000E-01
+             xred13    1.3000000000E-02  1.3000000000E-02  1.3000000000E-02
+                       2.3700000000E-01  2.3700000000E-01  2.3700000000E-01
+             xred14    1.4000000000E-02  1.4000000000E-02  1.4000000000E-02
+                       2.3600000000E-01  2.3600000000E-01  2.3600000000E-01
+             xred15    1.5000000000E-02  1.5000000000E-02  1.5000000000E-02
+                       2.3500000000E-01  2.3500000000E-01  2.3500000000E-01
+             xred16    1.6000000000E-02  1.6000000000E-02  1.6000000000E-02
+                       2.3400000000E-01  2.3400000000E-01  2.3400000000E-01
+             xred17    1.7000000000E-02  1.7000000000E-02  1.7000000000E-02
+                       2.3300000000E-01  2.3300000000E-01  2.3300000000E-01
+             xred18    1.8000000000E-02  1.8000000000E-02  1.8000000000E-02
+                       2.3200000000E-01  2.3200000000E-01  2.3200000000E-01
+             xred19    1.9000000000E-02  1.9000000000E-02  1.9000000000E-02
+                       2.3100000000E-01  2.3100000000E-01  2.3100000000E-01
+             xred20    2.0000000000E-02  2.0000000000E-02  2.0000000000E-02
+                       2.3000000000E-01  2.3000000000E-01  2.3000000000E-01
+             xred21    2.1000000000E-02  2.1000000000E-02  2.1000000000E-02
+                       2.2900000000E-01  2.2900000000E-01  2.2900000000E-01
+             xred22    2.2000000000E-02  2.2000000000E-02  2.2000000000E-02
+                       2.2800000000E-01  2.2800000000E-01  2.2800000000E-01
+             xred23    2.3000000000E-02  2.3000000000E-02  2.3000000000E-02
+                       2.2700000000E-01  2.2700000000E-01  2.2700000000E-01
+             xred24    2.4000000000E-02  2.4000000000E-02  2.4000000000E-02
+                       2.2600000000E-01  2.2600000000E-01  2.2600000000E-01
+             xred25    2.5000000000E-02  2.5000000000E-02  2.5000000000E-02
+                       2.2500000000E-01  2.2500000000E-01  2.2500000000E-01
+            znucl       14.00000
+
+================================================================================
+
+ chkinp: Checking input parameters for consistency, jdtset=   1.
+
+ chkinp: Checking input parameters for consistency, jdtset=   2.
+
+ chkinp: Checking input parameters for consistency, jdtset=   3.
+
+ chkinp: Checking input parameters for consistency, jdtset=   4.
+
+ chkinp: Checking input parameters for consistency, jdtset=   5.
+
+ chkinp: Checking input parameters for consistency, jdtset=   6.
+
+ chkinp: Checking input parameters for consistency, jdtset=   7.
+
+ chkinp: Checking input parameters for consistency, jdtset=   8.
+
+ chkinp: Checking input parameters for consistency, jdtset=   9.
+
+ chkinp: Checking input parameters for consistency, jdtset=  10.
+
+ chkinp: Checking input parameters for consistency, jdtset=  11.
+
+ chkinp: Checking input parameters for consistency, jdtset=  12.
+
+ chkinp: Checking input parameters for consistency, jdtset=  13.
+
+ chkinp: Checking input parameters for consistency, jdtset=  14.
+
+ chkinp: Checking input parameters for consistency, jdtset=  15.
+
+ chkinp: Checking input parameters for consistency, jdtset=  16.
+
+ chkinp: Checking input parameters for consistency, jdtset=  17.
+
+ chkinp: Checking input parameters for consistency, jdtset=  18.
+
+ chkinp: Checking input parameters for consistency, jdtset=  19.
+
+ chkinp: Checking input parameters for consistency, jdtset=  20.
+
+ chkinp: Checking input parameters for consistency, jdtset=  21.
+
+ chkinp: Checking input parameters for consistency, jdtset=  22.
+
+ chkinp: Checking input parameters for consistency, jdtset=  23.
+
+ chkinp: Checking input parameters for consistency, jdtset=  24.
+
+ chkinp: Checking input parameters for consistency, jdtset=  25.
+
+================================================================================
+== DATASET  1 ==================================================================
+-   nproc =    1
+
+ Exchange-correlation functional for the present dataset will be:
+  LDA: new Teter (4/93) with spin-polarized option - ixc=1
+ Citation for XC functional:
+  S. Goedecker, M. Teter, J. Huetter, PRB 54, 1703 (1996)
+
+ Real(R)+Recip(G) space primitive vectors, cartesian coordinates (Bohr,Bohr^-1):
+ R(1)=  0.0000000  5.1003228  5.1003228  G(1)= -0.0980330  0.0980330  0.0980330
+ R(2)=  5.1003228  0.0000000  5.1003228  G(2)=  0.0980330 -0.0980330  0.0980330
+ R(3)=  5.1003228  5.1003228  0.0000000  G(3)=  0.0980330  0.0980330 -0.0980330
+ Unit cell volume ucvol=  2.6535237E+02 bohr^3
+ Angles (23,13,12)=  6.00000000E+01  6.00000000E+01  6.00000000E+01 degrees
+
+ getcut: wavevector=  0.0000  0.0000  0.0000  ngfft=  50  50  50
+         ecut(hartree)=     55.125   => boxcut(ratio)=   2.07487
+
+--- Pseudopotential description ------------------------------------------------
+- pspini: atom type   1  psp file is 14si.txt
+- pspatm: opening atomic psp file    14si.txt
+-  Troullier-Martins psp for element  Si        Thu Oct 27 17:31:21 EDT 1994
+- 14.00000   4.00000    940714                znucl, zion, pspdat
+    1    1    2    2      2001   0.00000      pspcod,pspxc,lmax,lloc,mmax,r2well
+    0   5.907  14.692    1   2.0872718        l,e99.0,e99.9,nproj,rcpsp
+   0.00000000   0.00000000   0.00000000   0.00000000     rms, ekb1, ekb2, epsatm
+    1   2.617   4.181    1   2.0872718        l,e99.0,e99.9,nproj,rcpsp
+   0.00000000   0.00000000   0.00000000   0.00000000     rms, ekb1, ekb2, epsatm
+    2   0.000   0.000    0   2.0872718        l,e99.0,e99.9,nproj,rcpsp
+   0.00000000   0.00000000   0.00000000   0.00000000     rms, ekb1, ekb2, epsatm
+    1.80626423934776    0.22824404341771    1.17378968127746   rchrg,fchrg,qchrg
+ pspatm: epsatm=    1.43386982
+         --- l  ekb(1:nproj) -->
+             0    3.287949
+             1    1.849886
+ pspatm: atomic psp has been read  and splines computed
+
+   2.29419171E+01                                ecore*ucvol(ha*bohr**3)
+--------------------------------------------------------------------------------
+
+-inwffil : will read wavefunctions from disk file Si_i_DS1_WFK
+_setup2: Arith. and geom. avg. npw (full set) are    5187.160    5187.148
+
+================================================================================
+
+     iter   Etot(hartree)      deltaE(h)  residm     vres2
+ ETOT  1  -8.8768917920556    -8.877E+00 7.183E+02 1.793E+00
+ ETOT  2  -8.8770461392532    -1.543E-04 5.190E-01 1.707E-02
+ ETOT  3  -8.8770469831122    -8.439E-07 1.263E-01 1.177E-03
+ ETOT  4  -8.8770470225078    -3.940E-08 1.461E-02 1.501E-05
+
+ At SCF step    4, etot is converged : 
+  for the second time, diff in etot=  3.940E-08 < toldfe=  1.000E-06
+
+ Cartesian components of stress tensor (hartree/bohr^3)
+  sigma(1 1)= -4.48932993E-07  sigma(3 2)= -1.53825959E-05
+  sigma(2 2)= -4.48932993E-07  sigma(3 1)= -1.53825959E-05
+  sigma(3 3)= -4.48932993E-07  sigma(2 1)= -1.53825959E-05
+
+ Integrated electronic density in atomic spheres:
+ ------------------------------------------------
+ Atom  Sphere_radius  Integrated_density
+    1        2.00000          1.80246987
+    2        2.00000          1.80682486
+================================================================================
+
+ ----iterations are completed or convergence reached----
+
+ Mean square residual over all n,k,spin=   9.2293E-06; max=  1.4612E-02
+ reduced coordinates (array xred) for    2 atoms
+       0.001000000000      0.001000000000      0.001000000000
+       0.249000000000      0.249000000000      0.249000000000
+ rms dE/dt=  3.0140E-02; max dE/dt=  3.0140E-02; dE/dt below (all hartree)
+    1       0.030140417138      0.030140417138      0.030140417138
+    2      -0.030140417138     -0.030140417138     -0.030140417138
+
+ cartesian coordinates (angstrom) at end:
+    1      0.00539794911680     0.00539794911680     0.00539794911680
+    2      1.34408933008268     1.34408933008268     1.34408933008268
+
+ cartesian forces (hartree/bohr) at end:
+    1     -0.00295475586404    -0.00295475586404    -0.00295475586404
+    2      0.00295475586404     0.00295475586404     0.00295475586404
+ frms,max,avg= 2.9547559E-03 2.9547559E-03   0.000E+00  0.000E+00  0.000E+00 h/b
+
+ cartesian forces (eV/Angstrom) at end:
+    1     -0.15193964275802    -0.15193964275802    -0.15193964275802
+    2      0.15193964275802     0.15193964275802     0.15193964275802
+ frms,max,avg= 1.5193964E-01 1.5193964E-01   0.000E+00  0.000E+00  0.000E+00 e/A
+ length scales= 10.200645510000 10.200645510000 10.200645510000 bohr
+              =  5.397949116798  5.397949116798  5.397949116798 angstroms
+ prteigrs : about to open file Si_o_DS1_EIG
+ Fermi (or HOMO) energy (hartree) =   0.21835   Average Vxc (hartree)=  -0.35514
+ Eigenvalues (hartree) for nkpt=2000  k points:
+ kpt#   1, nband=  5, wtk=  0.00050, kpt= -0.0500 -0.1000  0.0000 (reduced coord)
+  -0.22206    0.18483    0.20319    0.21121    0.30655
+ prteigrs : prtvol=0 or 1, do not print more k-points.
+
+
+--------------------------------------------------------------------------------
+ Components of total free energy (in Hartree) :
+
+    Kinetic energy  =  3.03081262106043E+00
+    Hartree energy  =  5.37134101574478E-01
+    XC energy       = -3.54262731720647E+00
+    Ewald energy    = -8.44918300965302E+00
+    PspCore energy  =  8.64583080241649E-02
+    Loc. psp. energy= -2.42989984203628E+00
+    NL   psp  energy=  1.89025811572890E+00
+    >>>>>>>>> Etotal= -8.87704702250781E+00
+
+ Other information on the energy :
+    Total energy(eV)= -2.41556734072730E+02 ; Band energy (Ha)=   2.3834303344E-01
+--------------------------------------------------------------------------------
+
+ Cartesian components of stress tensor (hartree/bohr^3)
+  sigma(1 1)= -4.48932993E-07  sigma(3 2)= -1.53825959E-05
+  sigma(2 2)= -4.48932993E-07  sigma(3 1)= -1.53825959E-05
+  sigma(3 3)= -4.48932993E-07  sigma(2 1)= -1.53825959E-05
+
+-Cartesian components of stress tensor (GPa)         [Pressure=  1.3208E-02 GPa]
+- sigma(1 1)= -1.32080624E-02  sigma(3 2)= -4.52571521E-01
+- sigma(2 2)= -1.32080624E-02  sigma(3 1)= -4.52571521E-01
+- sigma(3 3)= -1.32080624E-02  sigma(2 1)= -4.52571521E-01
+
+================================================================================
+== DATASET  2 ==================================================================
+-   nproc =    1
+
+ Exchange-correlation functional for the present dataset will be:
+  LDA: new Teter (4/93) with spin-polarized option - ixc=1
+ Citation for XC functional:
+  S. Goedecker, M. Teter, J. Huetter, PRB 54, 1703 (1996)
+
+ Real(R)+Recip(G) space primitive vectors, cartesian coordinates (Bohr,Bohr^-1):
+ R(1)=  0.0000000  5.1003228  5.1003228  G(1)= -0.0980330  0.0980330  0.0980330
+ R(2)=  5.1003228  0.0000000  5.1003228  G(2)=  0.0980330 -0.0980330  0.0980330
+ R(3)=  5.1003228  5.1003228  0.0000000  G(3)=  0.0980330  0.0980330 -0.0980330
+ Unit cell volume ucvol=  2.6535237E+02 bohr^3
+ Angles (23,13,12)=  6.00000000E+01  6.00000000E+01  6.00000000E+01 degrees
+
+ getcut: wavevector=  0.0000  0.0000  0.0000  ngfft=  50  50  50
+         ecut(hartree)=     55.125   => boxcut(ratio)=   2.07487
+--------------------------------------------------------------------------------
+
+-inwffil : will read wavefunctions from disk file Si_i_DS2_WFK
+_setup2: Arith. and geom. avg. npw (full set) are    5187.160    5187.148
+
+================================================================================
+
+     iter   Etot(hartree)      deltaE(h)  residm     vres2
+ ETOT  1  -8.8764266706880    -8.876E+00 1.748E+02 5.288E+00
+ ETOT  2  -8.8767692066897    -3.425E-04 4.545E-01 3.761E-02
+ ETOT  3  -8.8767714311177    -2.224E-06 1.807E-02 2.645E-03
+ ETOT  4  -8.8767715201635    -8.905E-08 1.273E-03 2.519E-05
+ ETOT  5  -8.8767715207071    -5.436E-10 4.028E-04 1.276E-07
+
+ At SCF step    5, etot is converged : 
+  for the second time, diff in etot=  5.436E-10 < toldfe=  1.000E-06
+
+ Cartesian components of stress tensor (hartree/bohr^3)
+  sigma(1 1)= -1.87597970E-06  sigma(3 2)= -3.15956392E-05
+  sigma(2 2)= -1.87597970E-06  sigma(3 1)= -3.15956392E-05
+  sigma(3 3)= -1.87597970E-06  sigma(2 1)= -3.15956392E-05
+
+ Integrated electronic density in atomic spheres:
+ ------------------------------------------------
+ Atom  Sphere_radius  Integrated_density
+    1        2.00000          1.80355312
+    2        2.00000          1.81039619
+================================================================================
+
+ ----iterations are completed or convergence reached----
+
+ Mean square residual over all n,k,spin=   3.2645E-07; max=  4.0278E-04
+ reduced coordinates (array xred) for    2 atoms
+       0.002000000000      0.002000000000      0.002000000000
+       0.248000000000      0.248000000000      0.248000000000
+ rms dE/dt=  6.1995E-02; max dE/dt=  6.1995E-02; dE/dt below (all hartree)
+    1       0.061995484443      0.061995484443      0.061995484443
+    2      -0.061995484443     -0.061995484443     -0.061995484443
+
+ cartesian coordinates (angstrom) at end:
+    1      0.01079589823360     0.01079589823360     0.01079589823360
+    2      1.33869138096588     1.33869138096588     1.33869138096588
+
+ cartesian forces (hartree/bohr) at end:
+    1     -0.00607760404789    -0.00607760404789    -0.00607760404789
+    2      0.00607760404789     0.00607760404789     0.00607760404789
+ frms,max,avg= 6.0776040E-03 6.0776040E-03   0.000E+00  0.000E+00  0.000E+00 h/b
+
+ cartesian forces (eV/Angstrom) at end:
+    1     -0.31252293940767    -0.31252293940767    -0.31252293940767
+    2      0.31252293940767     0.31252293940767     0.31252293940767
+ frms,max,avg= 3.1252294E-01 3.1252294E-01   0.000E+00  0.000E+00  0.000E+00 e/A
+ length scales= 10.200645510000 10.200645510000 10.200645510000 bohr
+              =  5.397949116798  5.397949116798  5.397949116798 angstroms
+ prteigrs : about to open file Si_o_DS2_EIG
+ Fermi (or HOMO) energy (hartree) =   0.22026   Average Vxc (hartree)=  -0.35515
+ Eigenvalues (hartree) for nkpt=2000  k points:
+ kpt#   1, nband=  5, wtk=  0.00050, kpt= -0.0500 -0.1000  0.0000 (reduced coord)
+  -0.22211    0.18467    0.20177    0.21278    0.30619
+ prteigrs : prtvol=0 or 1, do not print more k-points.
+
+
+--------------------------------------------------------------------------------
+ Components of total free energy (in Hartree) :
+
+    Kinetic energy  =  3.03102914701901E+00
+    Hartree energy  =  5.37195253782310E-01
+    XC energy       = -3.54266149211557E+00
+    Ewald energy    = -8.44868274025758E+00
+    PspCore energy  =  8.64583080241649E-02
+    Loc. psp. energy= -2.43060444267634E+00
+    NL   psp  energy=  1.89049444551687E+00
+    >>>>>>>>> Etotal= -8.87677152070714E+00
+
+ Other information on the energy :
+    Total energy(eV)= -2.41549237287478E+02 ; Band energy (Ha)=   2.3819046037E-01
+--------------------------------------------------------------------------------
+
+ Cartesian components of stress tensor (hartree/bohr^3)
+  sigma(1 1)= -1.87597970E-06  sigma(3 2)= -3.15956392E-05
+  sigma(2 2)= -1.87597970E-06  sigma(3 1)= -3.15956392E-05
+  sigma(3 3)= -1.87597970E-06  sigma(2 1)= -3.15956392E-05
+
+-Cartesian components of stress tensor (GPa)         [Pressure=  5.5193E-02 GPa]
+- sigma(1 1)= -5.51932191E-02  sigma(3 2)= -9.29575643E-01
+- sigma(2 2)= -5.51932191E-02  sigma(3 1)= -9.29575643E-01
+- sigma(3 3)= -5.51932191E-02  sigma(2 1)= -9.29575643E-01
+
+================================================================================
+== DATASET  3 ==================================================================
+-   nproc =    1
+
+ Exchange-correlation functional for the present dataset will be:
+  LDA: new Teter (4/93) with spin-polarized option - ixc=1
+ Citation for XC functional:
+  S. Goedecker, M. Teter, J. Huetter, PRB 54, 1703 (1996)
+
+ Real(R)+Recip(G) space primitive vectors, cartesian coordinates (Bohr,Bohr^-1):
+ R(1)=  0.0000000  5.1003228  5.1003228  G(1)= -0.0980330  0.0980330  0.0980330
+ R(2)=  5.1003228  0.0000000  5.1003228  G(2)=  0.0980330 -0.0980330  0.0980330
+ R(3)=  5.1003228  5.1003228  0.0000000  G(3)=  0.0980330  0.0980330 -0.0980330
+ Unit cell volume ucvol=  2.6535237E+02 bohr^3
+ Angles (23,13,12)=  6.00000000E+01  6.00000000E+01  6.00000000E+01 degrees
+
+ getcut: wavevector=  0.0000  0.0000  0.0000  ngfft=  50  50  50
+         ecut(hartree)=     55.125   => boxcut(ratio)=   2.07487
+--------------------------------------------------------------------------------
+
+-inwffil : will read wavefunctions from disk file Si_i_DS3_WFK
+_setup2: Arith. and geom. avg. npw (full set) are    5187.160    5187.148
+
+================================================================================
+
+     iter   Etot(hartree)      deltaE(h)  residm     vres2
+ ETOT  1  -8.8756181458079    -8.876E+00 7.407E+02 1.126E+01
+ ETOT  2  -8.8762945639599    -6.764E-04 1.375E+01 7.533E-02
+ ETOT  3  -8.8762994176412    -4.854E-06 7.674E-02 4.469E-03
+ ETOT  4  -8.8762995675459    -1.499E-07 2.307E-02 3.757E-05
+ ETOT  5  -8.8762995683489    -8.030E-10 1.203E-04 1.851E-07
+
+ At SCF step    5, etot is converged : 
+  for the second time, diff in etot=  8.030E-10 < toldfe=  1.000E-06
+
+ Cartesian components of stress tensor (hartree/bohr^3)
+  sigma(1 1)= -4.33598601E-06  sigma(3 2)= -4.85454280E-05
+  sigma(2 2)= -4.33598601E-06  sigma(3 1)= -4.85454280E-05
+  sigma(3 3)= -4.33598601E-06  sigma(2 1)= -4.85454280E-05
+
+ Integrated electronic density in atomic spheres:
+ ------------------------------------------------
+ Atom  Sphere_radius  Integrated_density
+    1        2.00000          1.80203087
+    2        2.00000          1.80468776
+================================================================================
+
+ ----iterations are completed or convergence reached----
+
+ Mean square residual over all n,k,spin=   2.0535E-07; max=  1.2031E-04
+ reduced coordinates (array xred) for    2 atoms
+       0.003000000000      0.003000000000      0.003000000000
+       0.247000000000      0.247000000000      0.247000000000
+ rms dE/dt=  9.5623E-02; max dE/dt=  9.5623E-02; dE/dt below (all hartree)
+    1       0.095623199630      0.095623199630      0.095623199630
+    2      -0.095623199630     -0.095623199630     -0.095623199630
+
+ cartesian coordinates (angstrom) at end:
+    1      0.01619384735039     0.01619384735039     0.01619384735039
+    2      1.33329343184909     1.33329343184909     1.33329343184909
+
+ cartesian forces (hartree/bohr) at end:
+    1     -0.00937423024225    -0.00937423024225    -0.00937423024225
+    2      0.00937423024225     0.00937423024225     0.00937423024225
+ frms,max,avg= 9.3742302E-03 9.3742302E-03   0.000E+00  0.000E+00  0.000E+00 h/b
+
+ cartesian forces (eV/Angstrom) at end:
+    1     -0.48204225989560    -0.48204225989560    -0.48204225989560
+    2      0.48204225989560     0.48204225989560     0.48204225989560
+ frms,max,avg= 4.8204226E-01 4.8204226E-01   0.000E+00  0.000E+00  0.000E+00 e/A
+ length scales= 10.200645510000 10.200645510000 10.200645510000 bohr
+              =  5.397949116798  5.397949116798  5.397949116798 angstroms
+ prteigrs : about to open file Si_o_DS3_EIG
+ Fermi (or HOMO) energy (hartree) =   0.22218   Average Vxc (hartree)=  -0.35515
+ Eigenvalues (hartree) for nkpt=2000  k points:
+ kpt#   1, nband=  5, wtk=  0.00050, kpt= -0.0500 -0.1000  0.0000 (reduced coord)
+  -0.22219    0.18386    0.20089    0.21445    0.30561
+ prteigrs : prtvol=0 or 1, do not print more k-points.
+
+
+--------------------------------------------------------------------------------
+ Components of total free energy (in Hartree) :
+
+    Kinetic energy  =  3.03139755586483E+00
+    Hartree energy  =  5.37301294644563E-01
+    XC energy       = -3.54272047287031E+00
+    Ewald energy    = -8.44782008527494E+00
+    PspCore energy  =  8.64583080241649E-02
+    Loc. psp. energy= -2.43182170270134E+00
+    NL   psp  energy=  1.89090553396409E+00
+    >>>>>>>>> Etotal= -8.87629956834894E+00
+
+ Other information on the energy :
+    Total energy(eV)= -2.41536394810695E+02 ; Band energy (Ha)=   2.3792150810E-01
+--------------------------------------------------------------------------------
+
+ Cartesian components of stress tensor (hartree/bohr^3)
+  sigma(1 1)= -4.33598601E-06  sigma(3 2)= -4.85454280E-05
+  sigma(2 2)= -4.33598601E-06  sigma(3 1)= -4.85454280E-05
+  sigma(3 3)= -4.33598601E-06  sigma(2 1)= -4.85454280E-05
+
+-Cartesian components of stress tensor (GPa)         [Pressure=  1.2757E-01 GPa]
+- sigma(1 1)= -1.27569091E-01  sigma(3 2)= -1.42825556E+00
+- sigma(2 2)= -1.27569091E-01  sigma(3 1)= -1.42825556E+00
+- sigma(3 3)= -1.27569091E-01  sigma(2 1)= -1.42825556E+00
+
+================================================================================
+== DATASET  4 ==================================================================
+-   nproc =    1
+
+ Exchange-correlation functional for the present dataset will be:
+  LDA: new Teter (4/93) with spin-polarized option - ixc=1
+ Citation for XC functional:
+  S. Goedecker, M. Teter, J. Huetter, PRB 54, 1703 (1996)
+
+ Real(R)+Recip(G) space primitive vectors, cartesian coordinates (Bohr,Bohr^-1):
+ R(1)=  0.0000000  5.1003228  5.1003228  G(1)= -0.0980330  0.0980330  0.0980330
+ R(2)=  5.1003228  0.0000000  5.1003228  G(2)=  0.0980330 -0.0980330  0.0980330
+ R(3)=  5.1003228  5.1003228  0.0000000  G(3)=  0.0980330  0.0980330 -0.0980330
+ Unit cell volume ucvol=  2.6535237E+02 bohr^3
+ Angles (23,13,12)=  6.00000000E+01  6.00000000E+01  6.00000000E+01 degrees
+
+ getcut: wavevector=  0.0000  0.0000  0.0000  ngfft=  50  50  50
+         ecut(hartree)=     55.125   => boxcut(ratio)=   2.07487
+--------------------------------------------------------------------------------
+
+-inwffil : will read wavefunctions from disk file Si_i_DS4_WFK
+_setup2: Arith. and geom. avg. npw (full set) are    5187.160    5187.148
+
+================================================================================
+
+     iter   Etot(hartree)      deltaE(h)  residm     vres2
+ ETOT  1  -8.8744394288739    -8.874E+00 1.666E+03 1.996E+01
+ ETOT  2  -8.8756109106253    -1.171E-03 2.604E+01 1.384E-01
+ ETOT  3  -8.8756202406428    -9.330E-06 2.669E-02 6.703E-03
+ ETOT  4  -8.8756204658504    -2.252E-07 2.001E-03 5.473E-05
+ ETOT  5  -8.8756204670301    -1.180E-09 1.752E-03 2.806E-07
+
+ At SCF step    5, etot is converged : 
+  for the second time, diff in etot=  1.180E-09 < toldfe=  1.000E-06
+
+ Cartesian components of stress tensor (hartree/bohr^3)
+  sigma(1 1)= -7.92115832E-06  sigma(3 2)= -6.63166850E-05
+  sigma(2 2)= -7.92115832E-06  sigma(3 1)= -6.63166850E-05
+  sigma(3 3)= -7.92115832E-06  sigma(2 1)= -6.63166850E-05
+
+ Integrated electronic density in atomic spheres:
+ ------------------------------------------------
+ Atom  Sphere_radius  Integrated_density
+    1        2.00000          1.80652965
+    2        2.00000          1.80275660
+================================================================================
+
+ ----iterations are completed or convergence reached----
+
+ Mean square residual over all n,k,spin=   1.2117E-06; max=  1.7521E-03
+ reduced coordinates (array xred) for    2 atoms
+       0.004000000000      0.004000000000      0.004000000000
+       0.246000000000      0.246000000000      0.246000000000
+ rms dE/dt=  1.3105E-01; max dE/dt=  1.3105E-01; dE/dt below (all hartree)
+    1       0.131053378553      0.131053378553      0.131053378553
+    2      -0.131053378553     -0.131053378553     -0.131053378553
+
+ cartesian coordinates (angstrom) at end:
+    1      0.02159179646719     0.02159179646719     0.02159179646719
+    2      1.32789548273229     1.32789548273229     1.32789548273229
+
+ cartesian forces (hartree/bohr) at end:
+    1     -0.01284755738496    -0.01284755738496    -0.01284755738496
+    2      0.01284755738496     0.01284755738496     0.01284755738496
+ frms,max,avg= 1.2847557E-02 1.2847557E-02   0.000E+00  0.000E+00  0.000E+00 h/b
+
+ cartesian forces (eV/Angstrom) at end:
+    1     -0.66064790771532    -0.66064790771532    -0.66064790771532
+    2      0.66064790771532     0.66064790771532     0.66064790771532
+ frms,max,avg= 6.6064791E-01 6.6064791E-01   0.000E+00  0.000E+00  0.000E+00 e/A
+ length scales= 10.200645510000 10.200645510000 10.200645510000 bohr
+              =  5.397949116798  5.397949116798  5.397949116798 angstroms
+ prteigrs : about to open file Si_o_DS4_EIG
+ Fermi (or HOMO) energy (hartree) =   0.22411   Average Vxc (hartree)=  -0.35516
+ Eigenvalues (hartree) for nkpt=2000  k points:
+ kpt#   1, nband=  5, wtk=  0.00050, kpt= -0.0500 -0.1000  0.0000 (reduced coord)
+  -0.22230    0.18241    0.20062    0.21615    0.30483
+ prteigrs : prtvol=0 or 1, do not print more k-points.
+
+
+--------------------------------------------------------------------------------
+ Components of total free energy (in Hartree) :
+
+    Kinetic energy  =  3.03193298127808E+00
+    Hartree energy  =  5.37463118429839E-01
+    XC energy       = -3.54280929226629E+00
+    Ewald energy    = -8.44657101070508E+00
+    PspCore energy  =  8.64583080241649E-02
+    Loc. psp. energy= -2.43360372737105E+00
+    NL   psp  energy=  1.89150915558028E+00
+    >>>>>>>>> Etotal= -8.87562046703006E+00
+
+ Other information on the energy :
+    Total energy(eV)= -2.41517915524027E+02 ; Band energy (Ha)=   2.3753577139E-01
+--------------------------------------------------------------------------------
+
+ Cartesian components of stress tensor (hartree/bohr^3)
+  sigma(1 1)= -7.92115832E-06  sigma(3 2)= -6.63166850E-05
+  sigma(2 2)= -7.92115832E-06  sigma(3 1)= -6.63166850E-05
+  sigma(3 3)= -7.92115832E-06  sigma(2 1)= -6.63166850E-05
+
+-Cartesian components of stress tensor (GPa)         [Pressure=  2.3305E-01 GPa]
+- sigma(1 1)= -2.33048485E-01  sigma(3 2)= -1.95110391E+00
+- sigma(2 2)= -2.33048485E-01  sigma(3 1)= -1.95110391E+00
+- sigma(3 3)= -2.33048485E-01  sigma(2 1)= -1.95110391E+00
+
+================================================================================
+== DATASET  5 ==================================================================
+-   nproc =    1
+
+ Exchange-correlation functional for the present dataset will be:
+  LDA: new Teter (4/93) with spin-polarized option - ixc=1
+ Citation for XC functional:
+  S. Goedecker, M. Teter, J. Huetter, PRB 54, 1703 (1996)
+
+ Real(R)+Recip(G) space primitive vectors, cartesian coordinates (Bohr,Bohr^-1):
+ R(1)=  0.0000000  5.1003228  5.1003228  G(1)= -0.0980330  0.0980330  0.0980330
+ R(2)=  5.1003228  0.0000000  5.1003228  G(2)=  0.0980330 -0.0980330  0.0980330
+ R(3)=  5.1003228  5.1003228  0.0000000  G(3)=  0.0980330  0.0980330 -0.0980330
+ Unit cell volume ucvol=  2.6535237E+02 bohr^3
+ Angles (23,13,12)=  6.00000000E+01  6.00000000E+01  6.00000000E+01 degrees
+
+ getcut: wavevector=  0.0000  0.0000  0.0000  ngfft=  50  50  50
+         ecut(hartree)=     55.125   => boxcut(ratio)=   2.07487
+--------------------------------------------------------------------------------
+
+-inwffil : will read wavefunctions from disk file Si_i_DS5_WFK
+_setup2: Arith. and geom. avg. npw (full set) are    5187.160    5187.148
+
+================================================================================
+
+     iter   Etot(hartree)      deltaE(h)  residm     vres2
+ ETOT  1  -8.8728601920544    -8.873E+00 4.247E+01 3.162E+01
+ ETOT  2  -8.8747065716716    -1.846E-03 2.612E-01 2.374E-01

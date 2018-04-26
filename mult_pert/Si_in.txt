@@ -1,0 +1,195 @@
+# Crystalline silicon : computation of the optimal lattice parameter
+# Convergence with respect to the number of k points.
+
+ndtset 25
+
+#Optimization of the lattice parameters
+optcell 0
+#no relaxation of the atoms
+ionmov  0
+#do not move ions
+ntime 10
+dilatmx 1.05
+ecutsm  0.5
+
+#response-function calculation, with q = 0
+#rfphon 1
+#rfatpol 1 2
+#rfdir 1 1 1
+#nqpt 1
+#qpt 0 0 0
+irdwfk 1         # This is to speed up the calculation, by restarting
+                  # from previous wavefunctions, transferred from the old 
+                  # to the new k-points.
+
+
+
+
+#Definition of the k-point grids
+kptopt 2          # Option for the automatic generation of k points, taking
+                  # into account the symmetry
+nshiftk 4
+shiftk  0.5 0.5 0.5  # These shifts will be the same for all grids
+        0.5 0.0 0.0
+        0.0 0.5 0.0
+        0.0 0.0 0.5
+
+ngkpt  10 10 10 
+
+#Definition of the unit cell
+acell 3*1.0200645510E+01          # This is equivalent to cubic latice param obtained from the relaxation run
+rprim  0.0  0.5  0.5   # FCC primitive vectors (to be scaled by acell)
+       0.5  0.0  0.5   
+       0.5  0.5  0.0
+
+#Definition of the atom types
+ntypat 1          # There is only one type of atom
+znucl 14          # The keyword "znucl" refers to the atomic number of the 
+                  # possible type(s) of atom. The pseudopotential(s) 
+                  # mentioned in the "files" file must correspond
+                  # to the type(s) of atom. Here, the only type is Silicon.
+                         
+
+#Definition of the atoms
+natom 2           # There are two atoms
+typat 1 1         # They both are of type 1, that is, Silicon.
+
+xred1
+
+0.001000 0.001000 0.001000
+0.249000 0.249000 0.249000
+
+xred2
+
+0.002000 0.002000 0.002000
+0.248000 0.248000 0.248000
+
+xred3
+
+0.003000 0.003000 0.003000
+0.247000 0.247000 0.247000
+
+xred4
+
+0.004000 0.004000 0.004000
+0.246000 0.246000 0.246000
+
+xred5
+
+0.005000 0.005000 0.005000
+0.245000 0.245000 0.245000
+
+xred6
+
+0.006000 0.006000 0.006000
+0.244000 0.244000 0.244000
+
+xred7
+
+0.007000 0.007000 0.007000
+0.243000 0.243000 0.243000
+
+xred8
+
+0.008000 0.008000 0.008000
+0.242000 0.242000 0.242000
+
+xred9
+
+0.009000 0.009000 0.009000
+0.241000 0.241000 0.241000
+
+xred10
+
+0.010000 0.010000 0.010000
+0.240000 0.240000 0.240000
+
+xred11
+
+0.011000 0.011000 0.011000
+0.239000 0.239000 0.239000
+
+xred12
+
+0.012000 0.012000 0.012000
+0.238000 0.238000 0.238000
+
+xred13
+
+0.013000 0.013000 0.013000
+0.237000 0.237000 0.237000
+
+xred14
+
+0.014000 0.014000 0.014000
+0.236000 0.236000 0.236000
+
+xred15
+
+0.015000 0.015000 0.015000
+0.235000 0.235000 0.235000
+
+xred16
+
+0.016000 0.016000 0.016000
+0.234000 0.234000 0.234000
+
+xred17
+
+0.017000 0.017000 0.017000
+0.233000 0.233000 0.233000
+
+xred18
+
+0.018000 0.018000 0.018000
+0.232000 0.232000 0.232000
+
+xred19
+
+0.019000 0.019000 0.019000
+0.231000 0.231000 0.231000
+
+xred20
+
+0.020000 0.020000 0.020000
+0.230000 0.230000 0.230000
+
+xred21
+
+0.021000 0.021000 0.021000
+0.229000 0.229000 0.229000
+
+xred22
+
+0.022000 0.022000 0.022000
+0.228000 0.228000 0.228000
+
+xred23
+
+0.023000 0.023000 0.023000
+0.227000 0.227000 0.227000
+
+xred24
+
+0.024000 0.024000 0.024000
+0.226000 0.226000 0.226000
+
+xred25
+
+0.025000 0.025000 0.025000
+0.225000 0.225000 0.225000
+
+#Definition of the planewave basis set
+ecut 50.0
+
+#Definition of the SCF procedure
+nstep 10          # Maximal number of SCF cycles
+toldfe 1.0d-6     # Will stop when, twice in a row, the difference 
+                  # between two consecutive evaluations of total energy 
+                  # differ by less than toldfe (in Hartree) 
+                  # This value is way too large for most realistic studies of materials
+diemac 12.0       # Although this is not mandatory, it is worth to
+                  # precondition the SCF cycle. The model dielectric
+                  # function used as the standard preconditioner
+                  # is described in the "dielng" input variable section.
+                  # Here, we follow the prescription for bulk silicon.
